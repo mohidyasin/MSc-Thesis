@@ -4,10 +4,8 @@
 This repository contains the code, data, and final paper for my MSc Statistics dissertation at University College Dublin. The study analyzes factors influencing educational achievement in Irish children using data from the Growing Up in Ireland longitudinal study.
 
 ## Repository Contents
-- `code/`: Python scripts for data preprocessing, analysis, and modeling
-- `data/`: Processed data files (original data not included due to privacy constraints)
-- `paper/`: Final dissertation paper in PDF format
-- `results/`: Output files, figures, and tables
+- `Script+Data.zip`: R script for complete paper re-creation, aswell as processed data files (original data not included due to privacy constraints)
+- `Thesis_Paper.pdf`: Final dissertation paper in PDF format
 
 ## Key Features
 - Analysis of multi-wave survey data covering 4653 children over a 9-year period
